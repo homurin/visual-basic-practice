@@ -1,0 +1,9 @@
+D:\MxE\PraktikumForm2\PraktikumForm2\bin\Debug\PraktikumForm2.exe
+D:\MxE\PraktikumForm2\PraktikumForm2\bin\Debug\PraktikumForm2.pdb
+D:\MxE\PraktikumForm2\PraktikumForm2\bin\Debug\PraktikumForm2.xml
+D:\MxE\PraktikumForm2\PraktikumForm2\obj\x86\Debug\PraktikumForm2.Form1.resources
+D:\MxE\PraktikumForm2\PraktikumForm2\obj\x86\Debug\PraktikumForm2.Resources.resources
+D:\MxE\PraktikumForm2\PraktikumForm2\obj\x86\Debug\PraktikumForm2.vbproj.GenerateResource.Cache
+D:\MxE\PraktikumForm2\PraktikumForm2\obj\x86\Debug\PraktikumForm2.exe
+D:\MxE\PraktikumForm2\PraktikumForm2\obj\x86\Debug\PraktikumForm2.xml
+D:\MxE\PraktikumForm2\PraktikumForm2\obj\x86\Debug\PraktikumForm2.pdb

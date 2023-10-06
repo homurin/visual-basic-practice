@@ -1,0 +1,11 @@
+D:\MxE\PraktikumMochFajrin\PraktikumMochFajrin\bin\Debug\PraktikumMochFajrin.exe
+D:\MxE\PraktikumMochFajrin\PraktikumMochFajrin\bin\Debug\PraktikumMochFajrin.pdb
+D:\MxE\PraktikumMochFajrin\PraktikumMochFajrin\bin\Debug\PraktikumMochFajrin.xml
+D:\MxE\PraktikumMochFajrin\PraktikumMochFajrin\obj\x86\Debug\PraktikumMochFajrin.Form1.resources
+D:\MxE\PraktikumMochFajrin\PraktikumMochFajrin\obj\x86\Debug\PraktikumMochFajrin.Resources.resources
+D:\MxE\PraktikumMochFajrin\PraktikumMochFajrin\obj\x86\Debug\PraktikumMochFajrin.vbproj.GenerateResource.Cache
+D:\MxE\PraktikumMochFajrin\PraktikumMochFajrin\obj\x86\Debug\PraktikumMochFajrin.exe
+D:\MxE\PraktikumMochFajrin\PraktikumMochFajrin\obj\x86\Debug\PraktikumMochFajrin.xml
+D:\MxE\PraktikumMochFajrin\PraktikumMochFajrin\obj\x86\Debug\PraktikumMochFajrin.pdb
+D:\MxE\PraktikumMochFajrin\PraktikumMochFajrin\obj\x86\Debug\PraktikumMochFajrin.Form2.resources
+D:\MxE\PraktikumMochFajrin\PraktikumMochFajrin\obj\x86\Debug\PraktikumMochFajrin.Form3.resources

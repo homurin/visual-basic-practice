@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\BelajarVisual\BelajarVisual\obj\Debug\netcoreapp3.1\BelajarVisual.vbproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\BelajarVisual\BelajarVisual\obj\Debug\netcoreapp3.1\BelajarVisual.Form1.resources
+C:\Users\LENOVO\source\repos\BelajarVisual\BelajarVisual\obj\Debug\netcoreapp3.1\BelajarVisual.vbproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\BelajarVisual\BelajarVisual\obj\Debug\netcoreapp3.1\BelajarVisual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\BelajarVisual\BelajarVisual\obj\Debug\netcoreapp3.1\BelajarVisual.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\BelajarVisual\BelajarVisual\obj\Debug\netcoreapp3.1\BelajarVisual.AssemblyInfo.vb
+C:\Users\LENOVO\source\repos\BelajarVisual\BelajarVisual\obj\Debug\netcoreapp3.1\BelajarVisual.vbproj.CoreCompileInputs.cache

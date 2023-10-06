@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TugasAlgoritmaVisualPer3/1.0.0": {
+        "runtime": {
+          "TugasAlgoritmaVisualPer3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TugasAlgoritmaVisualPer3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
